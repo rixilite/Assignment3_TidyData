@@ -1,5 +1,5 @@
 ## Class Assignment for Getting and Cleaning Data
-## Mean calculations of accelerometer and gyroscope readings
+Mean calculations of accelerometer and gyroscope readings
 
 NOTE: Credit for the original materials that was used in this exercise 
 goes to work done by:
@@ -15,7 +15,7 @@ of these variables, a mean was calculated grouped by the subject and activity fo
 
 For additional information on the original datasets used for the TidyDataset, please reference www.smartlab.ws.
 
-##For each record it is provided:
+For each record it is provided:
 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
